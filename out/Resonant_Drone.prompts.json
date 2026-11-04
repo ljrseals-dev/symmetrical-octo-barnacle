@@ -1,0 +1,63 @@
+{
+  "preset": {
+    "name": "Resonant Drone",
+    "panel": {
+      "Osc1 Wave": "square",
+      "Osc2 Wave": "saw",
+      "Osc2 Level": 0.6,
+      "Filter Cutoff": 700,
+      "Filter Resonance": 0.7,
+      "Env Attack": 1.5,
+      "Env Sustain": 1.0,
+      "Env Release": 2.5,
+      "Reverb Amount": 0.4
+    },
+    "matrix": [
+      [
+        "LFO",
+        "FILTER_FREQ",
+        0.4
+      ]
+    ]
+  },
+  "prompts": [
+    {
+      "title": "Burning Garden #50",
+      "style": "dark ambient, drone, 1980s, hazy, floating, reedy, hollow, with sparse percussion, 67 BPM, wide stereo, tape-saturated, cavernous reverb",
+      "description": "analog drone, padded envelope, square wave, cutoff 700 Hz, resonance 70%",
+      "source_preset": "Resonant Drone",
+      "profile": {
+        "character": "drone",
+        "envelope": "padded",
+        "wave": "square",
+        "era": "analog",
+        "cutoff": 700,
+        "resonance": 0.7,
+        "attack": 1.5,
+        "release": 2.5,
+        "reverb": 0.4,
+        "lfo_rate": 5.0,
+        "killer_mode": false
+      }
+    },
+    {
+      "title": "Neon Key #20",
+      "style": "space music, kosmische, classic synth, hazy, floating, nasal, hollow, with TR-808 drums, 64 BPM, analog warmth, glued, cavernous reverb",
+      "description": "analog drone, padded envelope, square wave, cutoff 700 Hz, resonance 70%",
+      "source_preset": "Resonant Drone",
+      "profile": {
+        "character": "drone",
+        "envelope": "padded",
+        "wave": "square",
+        "era": "analog",
+        "cutoff": 700,
+        "resonance": 0.7,
+        "attack": 1.5,
+        "release": 2.5,
+        "reverb": 0.4,
+        "lfo_rate": 5.0,
+        "killer_mode": false
+      }
+    }
+  ]
+}

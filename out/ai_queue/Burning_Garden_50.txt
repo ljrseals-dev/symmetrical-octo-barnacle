@@ -1,0 +1,4 @@
+TITLE: Burning Garden #50
+STYLE: dark ambient, drone, 1980s, hazy, floating, reedy, hollow, with sparse percussion, 67 BPM, wide stereo, tape-saturated, cavernous reverb
+SOURCE PRESET: Resonant Drone
+REFERENCE AUDIO: out/Resonant_Drone.wav

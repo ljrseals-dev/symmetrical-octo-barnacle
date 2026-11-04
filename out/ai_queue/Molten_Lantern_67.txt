@@ -1,0 +1,4 @@
+TITLE: Molten Lantern #67
+STYLE: IDM, glitch, 1970s, driving, bold, nasal, reedy, with TR-808 drums, 109 BPM, glued, lo-fi grit, raw analog imperfection
+SOURCE PRESET: Glitch
+REFERENCE AUDIO: out/Glitch.wav

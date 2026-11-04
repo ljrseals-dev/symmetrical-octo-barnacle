@@ -1,0 +1,4 @@
+TITLE: Burning Engine #19
+STYLE: new age, cinematic, vintage hardware, floating, expansive, buzzing, rich, no drums, 102 BPM, tape-saturated, glued, cavernous reverb
+SOURCE PRESET: Drift Pad
+REFERENCE AUDIO: out/Drift_Pad.wav

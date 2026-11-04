@@ -1,0 +1,4 @@
+TITLE: Copper Signal #4
+STYLE: trap, darkwave, 1970s, crisp, snappy, buzzing, rich, with sparse percussion, 112 BPM, sidechained, glued, raw analog imperfection
+SOURCE PRESET: Killer Bass
+REFERENCE AUDIO: out/Killer_Bass.wav

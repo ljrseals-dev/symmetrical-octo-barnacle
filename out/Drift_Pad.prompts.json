@@ -1,0 +1,64 @@
+{
+  "preset": {
+    "name": "Drift Pad",
+    "panel": {
+      "Osc1 Wave": "saw",
+      "Osc2 Wave": "saw",
+      "Osc2 Level": 0.8,
+      "Osc2 Detune": 0.12,
+      "Filter Cutoff": 2400,
+      "Env Attack": 1.2,
+      "Env Release": 2.0,
+      "Env Sustain": 0.8,
+      "Reverb Amount": 0.5,
+      "Osc Drift": 0.02
+    },
+    "matrix": [
+      [
+        "LFO",
+        "FILTER_FREQ",
+        0.2
+      ]
+    ]
+  },
+  "prompts": [
+    {
+      "title": "Burning Engine #19",
+      "style": "new age, cinematic, vintage hardware, floating, expansive, buzzing, rich, no drums, 102 BPM, tape-saturated, glued, cavernous reverb",
+      "description": "lo-fi analog pad, padded envelope, saw wave, cutoff 2400 Hz, resonance 20%",
+      "source_preset": "Drift Pad",
+      "profile": {
+        "character": "pad",
+        "envelope": "padded",
+        "wave": "saw",
+        "era": "lo-fi analog",
+        "cutoff": 2400,
+        "resonance": 0.2,
+        "attack": 1.2,
+        "release": 2.0,
+        "reverb": 0.5,
+        "lfo_rate": 5.0,
+        "killer_mode": false
+      }
+    },
+    {
+      "title": "Neon Garden #56",
+      "style": "dream pop, cinematic, vintage hardware, hazy, expansive, buzzing, rich, with TR-808 drums, 109 BPM, dry and close, glued, cavernous reverb",
+      "description": "lo-fi analog pad, padded envelope, saw wave, cutoff 2400 Hz, resonance 20%",
+      "source_preset": "Drift Pad",
+      "profile": {
+        "character": "pad",
+        "envelope": "padded",
+        "wave": "saw",
+        "era": "lo-fi analog",
+        "cutoff": 2400,
+        "resonance": 0.2,
+        "attack": 1.2,
+        "release": 2.0,
+        "reverb": 0.5,
+        "lfo_rate": 5.0,
+        "killer_mode": false
+      }
+    }
+  ]
+}

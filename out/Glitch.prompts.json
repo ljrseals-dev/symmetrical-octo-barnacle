@@ -1,0 +1,62 @@
+{
+  "preset": {
+    "name": "Glitch",
+    "panel": {
+      "Osc1 Wave": "square",
+      "LFO Wave": "S&H",
+      "LFO Rate": 18.0,
+      "Filter Cutoff": 1500,
+      "Filter Resonance": 0.6,
+      "Env Attack": 0.005,
+      "Env Release": 0.15,
+      "Killer Mode": 1.0
+    },
+    "matrix": [
+      [
+        "LFO",
+        "FILTER_FREQ",
+        0.9
+      ]
+    ]
+  },
+  "prompts": [
+    {
+      "title": "Molten Lantern #67",
+      "style": "IDM, glitch, 1970s, driving, bold, nasal, reedy, with TR-808 drums, 109 BPM, glued, lo-fi grit, raw analog imperfection",
+      "description": "lo-fi analog glitch, stabbing envelope, square wave, cutoff 1500 Hz, resonance 60%",
+      "source_preset": "Glitch",
+      "profile": {
+        "character": "glitch",
+        "envelope": "stabbing",
+        "wave": "square",
+        "era": "lo-fi analog",
+        "cutoff": 1500,
+        "resonance": 0.6,
+        "attack": 0.005,
+        "release": 0.15,
+        "reverb": 0.0,
+        "lfo_rate": 18.0,
+        "killer_mode": true
+      }
+    },
+    {
+      "title": "Quiet Lantern #63",
+      "style": "IDM, clicks and cuts, 1970s, driving, bold, reedy, chiptune-like, with LinnDrum, 151 BPM, dry and close, analog warmth, raw analog imperfection",
+      "description": "lo-fi analog glitch, stabbing envelope, square wave, cutoff 1500 Hz, resonance 60%",
+      "source_preset": "Glitch",
+      "profile": {
+        "character": "glitch",
+        "envelope": "stabbing",
+        "wave": "square",
+        "era": "lo-fi analog",
+        "cutoff": 1500,
+        "resonance": 0.6,
+        "attack": 0.005,
+        "release": 0.15,
+        "reverb": 0.0,
+        "lfo_rate": 18.0,
+        "killer_mode": true
+      }
+    }
+  ]
+}
