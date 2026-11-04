@@ -4,6 +4,8 @@
 
 October 2026
 
+Chris Johnson 
+
 ## Abstract
 
 This paper documents a two-branch software system built around a software emulation of a vintage, patchable analog synthesizer called "Killer" (referred to in the source material as the Ionic Performer, with a design in the style of EMS Synthi-type instruments). A single preset file acts as a shared data contract. One branch renders it to audio with a sample-by-sample DSP engine. The other branch classifies it into a semantic sonic profile and converts that profile into Suno-style text prompts (title, style tags, description, optional lyric seed) for prompt-driven AI music services such as Suno or Udio.
